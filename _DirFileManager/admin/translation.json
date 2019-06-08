@@ -366,7 +366,7 @@
         "SelectAll": "全选",
         "UnSelectAll": "取消全选",
         "File": "文件",
-        "Back": "取消上传",
+        "Back": "返回",
         "Size": "文档大小",
         "Perms": "权限",
         "Modified": "修改时间",
