@@ -19,8 +19,7 @@ $use_auth = $dfm_function['dfm_auth'];
 // Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
 // Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
 $auth_users = array(
-    'admin' => password_hash($dfm_userpasswd['admin'], PASSWORD_DEFAULT), //admin
-    'guest' => password_hash($dfm_userpasswd['guest'], PASSWORD_DEFAULT) //guest
+    'admin' => password_hash($dfm_userpasswd['admin'], PASSWORD_DEFAULT) //admin
 );
 
 // Readonly users (username array)

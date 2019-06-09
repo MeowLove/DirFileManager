@@ -9,15 +9,12 @@
 
 	//Ignored Directory
 	$dfm_ignore	= array(
-		"_DirFileManager",
-		"_h5ai.footers.md",
-		"_h5ai.headers.md",
 		"LICENSE"
 	);
 
 	//Set the Password corresponding to the Username
 	$dfm_userpasswd = array(
 		"admin"	=>	"cxthhhhh.com",
-		"guest"	=>	"password"
+		"guest"	=>	"cxthhhhh.com"
 	);
 ?>
