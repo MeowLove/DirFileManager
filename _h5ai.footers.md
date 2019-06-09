@@ -26,7 +26,7 @@ This tip will be displayed at the Footers of all DirFileManager pages and you ca
 
 #### Administrator password and Guest password:
 
-1. Default password :
+1. Default Password :
   
 	①. Administrator password:
   
@@ -37,6 +37,10 @@ This tip will be displayed at the Footers of all DirFileManager pages and you ca
 	(guest/cxthhhhh.com)
   
 2. Change Password :
+  
+	Edit the \[ /_DirFileManager/admin/config.php \] file in the root directory of DirFileManager  
+  
+3. Access Control (Default: Enable Guest Password) :
   
 	Edit the \[ /_DirFileManager/admin/config.php \] file in the root directory of DirFileManager  
 
