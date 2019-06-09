@@ -1,10 +1,10 @@
 <?php
 	//Plugin Configuration
 	$dfm_function = array(
-		"function_version"	=>	"V1.0.0_20190605", // Do not Modify
+		"function_version"	=>	"V1.2.0_20190609", // Do not Modify
 		"docs_viewer"		=>	"Microsoft", // Google or Microsoft
-		"background_color"		=>	"#e500ff50", // Background Color
-		"dfm_auth"	=>	true // true or false
+		"admin_auth"	=>	true, // true or false
+		"guest_auth"	=>	true // true or false
 	);
 
 	//Ignored Directory

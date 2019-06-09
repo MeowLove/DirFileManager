@@ -14,7 +14,7 @@ include_once("./config.php");
 define('VERSION', '2.3.4');
 
 // Auth with login/password (set true/false to enable/disable it)
-$use_auth = $dfm_function['dfm_auth'];
+$use_auth = $dfm_function['admin_auth'];
 
 // Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
 // Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
