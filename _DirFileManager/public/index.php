@@ -1,4 +1,5 @@
 <?php
+require_once(__DIR__ . '/../private/php/pages/login.php');
 
 define('H5AI_VERSION', '0.29.2');
 define('MIN_PHP_VERSION', '5.5.0');
